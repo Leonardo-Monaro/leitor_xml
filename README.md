@@ -13,8 +13,7 @@
   <img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" />
 <div>
 
-> Esse projeto foi um desenvolvimento próprio, onde foi criado um dashboard utilizando streamlit juntamente com uma integração com o ChatGPT. Onde foram analisadas bases de
-dados do [kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024). O programa faz a leitura, tratamento e posteriormente faz a plotagem das views principais além da análise da IA.
+> Esse projeto foi um desenvolvimento próprio, onde foi criado um leitor de arquivos xml que os transforma posteriormente em um DataFrame para análise. Projeto ainda não finalizado. Objetivo final é criar um dashboard para visualização das informações desses documentos, após tratamento final da base de dados.
 
 ## 💻 Pré-requisitos
 
