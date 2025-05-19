@@ -1,0 +1,27 @@
+<nfeProc>
+  <NFe>
+    <infNFe>
+      <emit>
+        <CNPJ>11223344000166</CNPJ>
+        <xNome>Loja Gama EIRELI</xNome>
+      </emit>
+      <det>
+        <prod>
+          <xProd>Monitor LED</xProd>
+          <vProd>600.00</vProd>
+        </prod>
+      </det>
+      <det>
+        <prod>
+          <xProd>Suporte de Monitor</xProd>
+          <vProd>120.00</vProd>
+        </prod>
+      </det>
+      <total>
+        <ICMSTot>
+          <vNF>720.00</vNF>
+        </ICMSTot>
+      </total>
+    </infNFe>
+  </NFe>
+</nfeProc>

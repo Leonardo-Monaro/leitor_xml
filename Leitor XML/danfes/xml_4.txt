@@ -1,0 +1,21 @@
+<nfeProc>
+  <NFe>
+    <infNFe>
+      <emit>
+        <CNPJ>55667788000100</CNPJ>
+        <xNome>Distribuidora Delta</xNome>
+      </emit>
+      <det>
+        <prod>
+          <xProd>Cadeira de Escritório</xProd>
+          <vProd>850.00</vProd>
+        </prod>
+      </det>
+      <total>
+        <ICMSTot>
+          <vNF>850.00</vNF>
+        </ICMSTot>
+      </total>
+    </infNFe>
+  </NFe>
+</nfeProc>
